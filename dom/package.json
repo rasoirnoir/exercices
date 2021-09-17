@@ -1,0 +1,14 @@
+{
+  "name": "exercice_dom",
+  "version": "1.0.0",
+  "description": "Exercices sur la manipulation du DOM en javascript",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William",
+  "license": "ISC",
+  "dependencies": {
+    "luxon": "^2.0.2"
+  }
+}
